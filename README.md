@@ -8,7 +8,7 @@ Powerfull Software
 
 Free fell to access [my portifolio](http://appenterprise.herokuapp.com/invoices).
 
-> ## Etiam pulvinar sollicitudin gravida
+> ## Teste Markdown
 >
 > André Lara *Amorim*
 >
@@ -22,7 +22,7 @@ André Lara **Amorim**
 
 ### Reasons to chose US
 1. Price
-2. Precision 
+2. Precision
 3. Performance
 
 This is what ruby code would look like `Puts 'Hello World'`
